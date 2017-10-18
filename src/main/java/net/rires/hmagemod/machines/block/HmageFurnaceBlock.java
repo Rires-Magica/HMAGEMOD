@@ -11,7 +11,7 @@ public class HmageFurnaceBlock extends Block implements IMachine {
   }
 
   @Override
-  public double getEnergy() {
+  public double getStoredEnergy() {
     return 0;
   }
 
